@@ -123,6 +123,9 @@ The following are the latest firmware versions released via Microsoft Teams Admi
 
 | Device model  | Latest Firmware version | Minimum Firmware version required | Teams client | Company Portal | Admin Agent | Release date |
 |:-------------------|:----------------------------|:---------------------------------------------|:-------------------------------|:-------------------------------|:--------------------------------|:--------------------------------|
+| Logi Rallybar | `1.11.291` | N/A | `1449/1.0.96.2023120901` | `5.0.5484.0`| `1.0.0.202306202019.product` | Recalled|
+| Logi Rallybar Mini | `1.11.291` | N/A | `1449/1.0.96.2023120901` | `5.0.5484.0`| `1.0.0.202306202019.product` | Recalled|
+| Logi RoomMate | `1.11.232`   | N/A | `1449/1.0.96.2023120901` | `5.0.5484.0`| `1.0.0.202306202019.product` | Recalled|
 | Logi Rallybar | `1.11.254` | N/A | `1449/1.0.96.2023062301` | `5.0.5484.0`| `1.0.0.202306202019.product` | January 31, 2024|
 | Logi Rallybar Mini | `1.11.254` | N/A | `1449/1.0.96.2023062301` | `5.0.5484.0`| `1.0.0.202306202019.product` | January 31, 2024|
 | Logi RoomMate | `1.11.215`   | N/A | `1449/1.0.96.2023062301` | `5.0.5484.0`| `1.0.0.202306202019.product` | January 31, 2024|
@@ -159,6 +162,12 @@ The following are the latest firmware versions released via Microsoft Teams Admi
 
 | Device model  | Latest Firmware version | Minimum Firmware version required| Teams client | Company Portal | Admin Agent | Release date |
 |:-------------------|:----------------------------|:---------------------------------------------|:-------------------------------|:-------------------------------|:--------------------------------|:--------------------------------|
+| Neat Bar Gen2 | `NFE1.20240312.0005` | N/A | `1449/1.0.96.2024030101`| `5.0.6061.0` | `1.0.0.202310260109.product`| April 18, 2024|
+| Neat Bar | `NFB1.20240312.0005` | N/A | `1449/1.0.96.2024030101`| `5.0.6061.0` | `1.0.0.202310260109.product`| April 17, 2024|
+| Neat Bar Pro| `NFD1.20240312.0005` | N/A | `1449/1.0.96.2024030101`| `5.0.6061.0` | `1.0.0.202310260109.product`| April 17, 2024|
+| Neat Board | `NFC1.20240312.0005` |  N/A | `1449/1.0.96.2024030101`| `5.0.6061.0` | `1.0.0.202310260109.product`| April 17, 2024|
+| Neat Board 50 | `NFH1.20240312.0005` |  N/A | `1449/1.0.96.2024030101`| `5.0.6061.0` | `1.0.0.202310260109.product`| April 17, 2024|
+| Neat Pad touch console | `NFA1.20240312.0503`  | N/A | `1449/1.0.96.2024030101`| `5.0.6061.0` | `1.0.0.202310260109.product`| April 17, 2024|
 | Neat Bar | `NFB1.20240120.0007` | N/A | `1449/1.0.96.2023120801`| `5.0.6061.0` | `1.0.0.202310260109.product`| February 21, 2024|
 | Neat Bar Pro| `NFD1.20240120.0009` | N/A | `1449/1.0.96.2023120801`| `5.0.6061.0` | `1.0.0.202310260109.product`| February 21, 2024|
 | Neat Board | `NFC1.20240120.0007` |  N/A | `1449/1.0.96.2023120801`| `5.0.6061.0` | `1.0.0.202310260109.product`| February 21, 2024|
